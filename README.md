@@ -51,4 +51,4 @@ O Sistema de Gerenciamento de Chaves é uma aplicação web desenvolvida para ge
 </ol>
 
 <h2>Licença</h2>
-<p>Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para mais detalhes.</p>
+<p>Este projeto está licenciado sob a licença MIT - consulte o arquivo <a href='LICENSE.md'>LICENSE.MD</a> para mais detalhes.</p>
